@@ -1,0 +1,24 @@
+{
+  "name": "wmcc-tcp",
+  "version": "1.0.0-beta.1",
+  "release": "25 January 2018",
+  "description": "WorldMobileCoin © WMCC TCP Wrapper",
+  "repository": "git://github.com/worldmobilecoin/wmcc-tcp.git",
+  "homepage": "https://github.com/worldmobilecoin/wmcc-tcp",
+  "bugs": {
+    "url": "https://github.com/worldmobilecoin/wmcc-tcp/issues"
+  },
+  "author": "ParkAlter@WorldMobileCoin <worldmobilecoin@gmail.com>",
+  "keywords": [
+    "worldmobilecoin",
+    "wmcc",
+    "wmcc-tcp",
+    "net",
+    "tcp"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "main": "./lib/wmcc-tcp.js",
+  "license": "MIT"
+}
