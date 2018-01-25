@@ -1,6 +1,6 @@
 {
   "name": "wmcc-tcp",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "release": "25 January 2018",
   "description": "WorldMobileCoin © WMCC TCP Wrapper",
   "repository": "git://github.com/worldmobilecoin/wmcc-tcp.git",
